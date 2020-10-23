@@ -1,5 +1,5 @@
 #include "moderateur.h"
-//bbvvv
+//bbvvvf
 Moderateur::Moderateur()
 {
 }
